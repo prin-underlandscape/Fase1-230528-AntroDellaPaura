@@ -1,4 +1,4 @@
-# Fase1-230528-AntroDellaPaura ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230528-bucadellapaura_1041692?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-230528-AntroDellaPaura ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230528-bucadellapaura_1041692))
 Breve ricognizione per verificare l'accessibilità dell'Antro della Paura
 ## Percorso: Antro della Paura
 **Breve sopralluogo all'Antro della Paura per capirne l'accessibilità**
